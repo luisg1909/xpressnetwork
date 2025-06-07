@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/xpressnetwork/static/css/main.7037f814.css",
-    "main.js": "/xpressnetwork/static/js/main.6cf3b1ec.js",
+    "main.css": "/xpressnetwork/static/css/main.a48f1c34.css",
+    "main.js": "/xpressnetwork/static/js/main.d73e661c.js",
     "static/js/453.a5b5c665.chunk.js": "/xpressnetwork/static/js/453.a5b5c665.chunk.js",
     "static/media/3.jpg": "/xpressnetwork/static/media/3.3552d1728c1423557f9d.jpg",
     "static/media/1.jpg": "/xpressnetwork/static/media/1.a5cb8b7df26fc82dd5f4.jpg",
     "index.html": "/xpressnetwork/index.html",
-    "main.7037f814.css.map": "/xpressnetwork/static/css/main.7037f814.css.map",
-    "main.6cf3b1ec.js.map": "/xpressnetwork/static/js/main.6cf3b1ec.js.map",
+    "main.a48f1c34.css.map": "/xpressnetwork/static/css/main.a48f1c34.css.map",
+    "main.d73e661c.js.map": "/xpressnetwork/static/js/main.d73e661c.js.map",
     "453.a5b5c665.chunk.js.map": "/xpressnetwork/static/js/453.a5b5c665.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7037f814.css",
-    "static/js/main.6cf3b1ec.js"
+    "static/css/main.a48f1c34.css",
+    "static/js/main.d73e661c.js"
   ]
 }
