@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/xpressnetwork/static/css/main.740faa88.css",
-    "main.js": "/xpressnetwork/static/js/main.2031e0c8.js",
+    "main.css": "/xpressnetwork/static/css/main.79c52c88.css",
+    "main.js": "/xpressnetwork/static/js/main.790bb2a1.js",
     "static/js/453.a5b5c665.chunk.js": "/xpressnetwork/static/js/453.a5b5c665.chunk.js",
     "static/media/3.jpg": "/xpressnetwork/static/media/3.3552d1728c1423557f9d.jpg",
     "static/media/1.jpg": "/xpressnetwork/static/media/1.a5cb8b7df26fc82dd5f4.jpg",
+    "static/media/2025-06-10_053820.jpg": "/xpressnetwork/static/media/2025-06-10_053820.7462c0bbeb4ec41367de.jpg",
     "index.html": "/xpressnetwork/index.html",
-    "main.740faa88.css.map": "/xpressnetwork/static/css/main.740faa88.css.map",
-    "main.2031e0c8.js.map": "/xpressnetwork/static/js/main.2031e0c8.js.map",
+    "main.79c52c88.css.map": "/xpressnetwork/static/css/main.79c52c88.css.map",
+    "main.790bb2a1.js.map": "/xpressnetwork/static/js/main.790bb2a1.js.map",
     "453.a5b5c665.chunk.js.map": "/xpressnetwork/static/js/453.a5b5c665.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.740faa88.css",
-    "static/js/main.2031e0c8.js"
+    "static/css/main.79c52c88.css",
+    "static/js/main.790bb2a1.js"
   ]
 }
